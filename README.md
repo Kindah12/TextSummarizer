@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-the website runs on http://localhost:5000/
+the website runs on localhost port 5000
 ## References
 * https://medium.com/@ashins1997/text-summarization-f2542bc6a167
 * https://medium.com/voice-tech-podcast/automatic-extractive-text-summarization-using-tfidf-3fc9a7b26f5
