@@ -6,6 +6,7 @@ A website, developed with Flask, HTML, CSS, and Natural Language Toolkit, employ
 
 ## Demo
 
+![](https://github.com/Kindah12/TextSummarizer/blob/main/GIF.gif)
 
 ## Technologies
 
