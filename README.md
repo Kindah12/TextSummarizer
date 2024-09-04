@@ -24,7 +24,7 @@ Python libraries:
 1- Clone the repositary in your local device
 
 ```bash
-git clone https://github.com/Kindah12/TextSummarizer
+git clone https://github.com/Kindah12/TextSummarizer.git
 ```
 2- Install the requirements
 ```bash
